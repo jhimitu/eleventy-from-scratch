@@ -1,0 +1,23 @@
+{
+  "name": "eleventy-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhimitu/eleventy-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhimitu/eleventy-from-scratch/issues"
+  },
+  "homepage": "https://github.com/jhimitu/eleventy-from-scratch#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
